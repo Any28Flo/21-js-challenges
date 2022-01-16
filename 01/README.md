@@ -7,6 +7,7 @@
 
 Tener instaldo > NodeJS 8.x and NPM.
 
+### Acerca de
 Considera una lista/array de ovejas. Cada oveja tiene un nombre y un color. 
 
 Haz una función que devuelva una lista con todas las ovejas que sean de color rojo y que además 
