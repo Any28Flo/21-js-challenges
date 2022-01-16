@@ -10,8 +10,8 @@ Tener instaldo > NodeJS 8.x and NPM.
 ### Acerca de
 Considera una lista/array de ovejas. Cada oveja tiene un nombre y un color. 
 
-Haz una función que devuelva una lista con todas las ovejas que sean de color rojo y que además 
-su nombre contenga tanto las letras n Y a, sin importar el orden, las mayúsculas o espacios.
+Haz una función que devuelva una lista con todas las ovejas que sean de color **rojo** y que además 
+su nombre contenga tanto las letras **n**  Y **a** , sin importar el orden, las mayúsculas o espacios.
 
 Por ejemplo, si tenemos las ovejas:
 
@@ -43,5 +43,7 @@ Si quieres provar tu código no es necesario que lo agregues dentro de un HTML, 
 ```shell
   node main.js
  ``
+
+Si ves algún error sientete libre de abrir un PR, todo feedback será bien recibido.
 
 __Happy coding! :heart:__
