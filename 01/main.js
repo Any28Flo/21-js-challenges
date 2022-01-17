@@ -9,13 +9,13 @@ const ovejas = [
 ];
 
 const contarOvejas = (ovejas) =>{
-    return `Vamos a contar ${ovejas} ovejas`
+        return ovejas.filter(({color,name}) => color === 'rojo' &&  (name.toLowerCase()).includes('n') && (name.toLowerCase()).includes('a'))
 }//contarOvejas
-console.log( contarOvejas(2));
+
 
 const ovejasFiltradas = contarOvejas(ovejas)
 // Descomenta esta línea
-//console.log(ovejasFiltradas)
+console.log(ovejasFiltradas)
 
 // [{ name: 'Navidad', color: 'rojo' },
 //  { name: 'Ki Na Ma', color: 'rojo' }]
