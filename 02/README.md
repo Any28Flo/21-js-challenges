@@ -19,7 +19,7 @@ const carta = 'bici coche balón _playstation bici coche peluche'
 Al ejecutar el método debería devolver lo siguiente:
 
 ```javascript
-onst regalos = listGifts(carta)
+const regalos = listGifts(carta)
 
 console.log(regalos)
 /*
