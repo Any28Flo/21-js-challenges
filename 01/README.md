@@ -42,7 +42,7 @@ Si quieres provar tu código no es necesario que lo agregues dentro de un HTML, 
 
 ```shell
   node main.js
- ``
+ ```
 
 Si ves algún error sientete libre de abrir un PR, todo feedback será bien recibido.
 
