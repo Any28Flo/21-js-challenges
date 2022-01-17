@@ -32,5 +32,14 @@ console.log(regalos)
 */
 ```
 
+# Recordatorio
+Si quieres provar tu código no es necesario que lo agregues dentro de un HTML, puedes ejecutarlo en la terminal.
 
+```shell
+  node main.js
+ ```
+
+Si ves algún error sientete libre de abrir un PR, todo feedback será bien recibido.
+
+__Happy coding! :heart:__
 
